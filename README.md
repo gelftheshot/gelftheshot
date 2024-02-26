@@ -3,6 +3,6 @@ Student at alx
 i am studying 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,django,docker,flask,c,mysql,backend,bash" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,c,bashbootstrap,django,flask,mysql,sqllite,docker" />
   </a>
 </p>
