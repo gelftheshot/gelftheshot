@@ -1,6 +1,6 @@
 Hi I am Lihon Gebre. 
 Full Stack Developer, AI, and DevOps Engineer.
-I am studying 
+I can work with  
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs" />
