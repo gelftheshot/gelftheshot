@@ -4,7 +4,7 @@
 
 I build AI assistants, backend systems, and connected workflows. I am seeking a salaried engineering role, remote or in Addis Ababa, Ethiopia.
 
-**[Top Rated on Upwork · 15 jobs · 12 client feedback entries](https://www.upwork.com/freelancers/~01dd5cefb217b3cbea)** · BSc in Computer Science, Addis Ababa University.
+**[Top Rated on Upwork](https://www.upwork.com/freelancers/~01dd5cefb217b3cbea)** · [Selected client-work collection: 10 completed engagements, 9 written reviews](https://www.lihongebre.com/#client-work) · BSc in Computer Science, Addis Ababa University.
 
 ## Selected projects
 
@@ -20,4 +20,4 @@ My background includes backend engineering, full-stack development, and infrastr
 
 [Portfolio](https://www.lihongebre.com) · [LinkedIn](https://www.linkedin.com/in/lihongebre/) · [Upwork](https://www.upwork.com/freelancers/~01dd5cefb217b3cbea) · [Email](mailto:lihongebre@gmail.com)
 
-*Upwork profile figures checked November 6, 2026. The portfolio includes an AI assistant for questions about my work.*
+*The selected completed-work collection was checked November 3, 2026; Top Rated was checked November 6, 2026. The portfolio includes an AI assistant for questions about my work.*
