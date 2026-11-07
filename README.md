@@ -1,6 +1,6 @@
 # Lihon Gebre
 
-## AI & Backend Engineer
+## Full Stack Developer, AI, and DevOps Engineer.
 
 I build AI assistants, backend systems, and connected workflows. I am seeking a salaried engineering role, remote or in Addis Ababa, Ethiopia.
 
