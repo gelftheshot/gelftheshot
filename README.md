@@ -2,7 +2,7 @@
 
 ## Full Stack Developer, AI, and DevOps Engineer.
 
-I build AI assistants, backend systems, and connected workflows. I am seeking a salaried engineering role, remote or in Addis Ababa, Ethiopia.
+I build AI assistants, backend systems, and connected workflows. I work remotely from Addis Ababa, Ethiopia (UTC+3). Reach me through [lihongebre.com](https://www.lihongebre.com/#contact).
 
 **[Top Rated on Upwork](https://www.upwork.com/freelancers/~01dd5cefb217b3cbea)** · [Selected client-work collection: 10 completed engagements, 9 written reviews](https://www.lihongebre.com/#client-work) · BSc in Computer Science, Addis Ababa University.
 
